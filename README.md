@@ -1,0 +1,3 @@
+# Sybase-ASE
+
+SP_DBSPACE
