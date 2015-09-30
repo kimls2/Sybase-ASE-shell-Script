@@ -1,3 +1,4 @@
 # Sybase-ASE
 
-SP_DBSPACE
+Sybase ASE stored procedures and shell scripts
+
